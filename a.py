@@ -58,3 +58,12 @@ while True:
 
     elif action == 'stop':
         quit()
+
+
+
+
+
+
+
+
+print(a)
